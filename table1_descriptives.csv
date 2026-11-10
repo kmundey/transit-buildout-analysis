@@ -1,0 +1,9 @@
+Outcome,Group,Year,Tracts,Mean per tract,Median,SD,Min,Max,Total
+Population,Phase 1 station tracts,2013,21,3889.952,3512.0,1252.806,2376.0,6837.0,81689.0
+Population,Phase 1 station tracts,2019,21,4190.714,4298.0,1400.298,2235.0,7053.0,88005.0
+Population,Control place tracts,2013,36,4857.472,4759.5,1512.139,2141.0,7681.0,174869.0
+Population,Control place tracts,2019,36,5040.278,4934.0,1624.278,2557.0,7742.0,181450.0
+Housing units,Phase 1 station tracts,2013,21,1687.905,1781.0,582.171,773.0,2428.0,35446.0
+Housing units,Phase 1 station tracts,2019,21,1801.476,1749.0,696.384,763.0,3348.0,37831.0
+Housing units,Control place tracts,2013,36,1704.278,1602.5,602.071,760.0,3378.0,61354.0
+Housing units,Control place tracts,2019,36,1706.5,1648.5,615.073,778.0,3286.0,61434.0

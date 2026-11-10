@@ -1,0 +1,9 @@
+Outcome,Specification,Estimate,CI low,CI high,p-value,Tracts
+Population,"DiD, % growth above control places (log, tract fixed effects)",3.44,-3.018,10.328,0.304,57
+Population,"DiD, extra people per tract (levels)",117.956,-161.374,397.287,0.408,57
+Population,DiD (log) without the 2 fastest-growing tracts overall,1.474,-2.771,5.904,0.502,55
+Population,DiD (log) without the 2 fastest-growing Phase 1 tracts,0.134,-4.035,4.483,0.951,55
+Housing units,"DiD, % growth above control places (log, tract fixed effects)",5.66,0.772,10.785,0.023,57
+Housing units,"DiD, extra housing units per tract (levels)",111.349,0.24,222.459,0.05,57
+Housing units,DiD (log) without the 2 fastest-growing tracts overall,2.766,-0.379,6.01,0.085,55
+Housing units,DiD (log) without the 2 fastest-growing Phase 1 tracts,2.766,-0.379,6.01,0.085,55

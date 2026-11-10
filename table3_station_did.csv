@@ -1,0 +1,7 @@
+Station (nearest),Tracts,Population: growth %,Population: DiD %,Population: 95% CI,Population: p,Housing units: growth %,Housing units: DiD %,Housing units: 95% CI,Housing units: p
+Greensboro,3,1.691,-1.681,-9.3 to 6.6,0.682,-0.564,-0.408,-3.0 to 2.2,0.758
+McLean,3,6.246,1.508,-5.6 to 9.2,0.688,4.576,4.247,0.9 to 7.7,0.014
+Spring Hill,4,3.712,0.935,-6.7 to 9.2,0.816,5.387,7.631,-5.0 to 22.0,0.25
+Tysons,2,43.179,33.904,-5.0 to 88.7,0.095,25.175,19.826,-6.8 to 54.1,0.159
+Wiehle-Reston East,9,5.536,1.062,-5.4 to 7.9,0.752,4.744,4.403,-1.0 to 10.2,0.115
+All Phase 1 tracts,21,7.732,3.44,-3.0 to 10.3,0.304,6.729,5.66,0.8 to 10.8,0.023
