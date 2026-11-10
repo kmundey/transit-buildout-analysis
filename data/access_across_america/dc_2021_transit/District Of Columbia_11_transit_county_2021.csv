@@ -1,0 +1,13 @@
+mode,year,parent_area,state,summary_level,geoid,geo_name,threshold,weighted_average
+transit,2021,11,District Of Columbia,county,11001,District of Columbia,300,818.56207969236
+transit,2021,11,District Of Columbia,county,11001,District of Columbia,600,5692.34297416016
+transit,2021,11,District Of Columbia,county,11001,District of Columbia,900,20901.4717168717
+transit,2021,11,District Of Columbia,county,11001,District of Columbia,1200,57738.9975957855
+transit,2021,11,District Of Columbia,county,11001,District of Columbia,1500,127123.144631161
+transit,2021,11,District Of Columbia,county,11001,District of Columbia,1800,228657.927182629
+transit,2021,11,District Of Columbia,county,11001,District of Columbia,2100,352624.584339779
+transit,2021,11,District Of Columbia,county,11001,District of Columbia,2400,490558.513492051
+transit,2021,11,District Of Columbia,county,11001,District of Columbia,2700,634882.734773569
+transit,2021,11,District Of Columbia,county,11001,District of Columbia,3000,775280.10933079
+transit,2021,11,District Of Columbia,county,11001,District of Columbia,3300,908352.787603758
+transit,2021,11,District Of Columbia,county,11001,District of Columbia,3600,1038034.008557

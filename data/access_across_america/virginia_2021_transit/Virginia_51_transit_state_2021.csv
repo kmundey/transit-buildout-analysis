@@ -1,0 +1,13 @@
+mode,year,parent_area,state,summary_level,geoid,geo_name,threshold,weighted_average
+transit,2021,51,Virginia,state,51,Virginia,300,121.724754442114
+transit,2021,51,Virginia,state,51,Virginia,600,475.232251696734
+transit,2021,51,Virginia,state,51,Virginia,900,1278.08737339226
+transit,2021,51,Virginia,state,51,Virginia,1200,2910.55851318212
+transit,2021,51,Virginia,state,51,Virginia,1500,6064.14681605081
+transit,2021,51,Virginia,state,51,Virginia,1800,11084.7017415191
+transit,2021,51,Virginia,state,51,Virginia,2100,17932.7804444945
+transit,2021,51,Virginia,state,51,Virginia,2400,27159.2463173818
+transit,2021,51,Virginia,state,51,Virginia,2700,39393.9266328063
+transit,2021,51,Virginia,state,51,Virginia,3000,54520.8236050744
+transit,2021,51,Virginia,state,51,Virginia,3300,72393.098478059
+transit,2021,51,Virginia,state,51,Virginia,3600,92727.6998856972
