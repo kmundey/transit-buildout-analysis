@@ -1373,6 +1373,7 @@ dependencies = [
     { name = "geopandas" },
     { name = "mapclassify" },
     { name = "matplotlib" },
+    { name = "pyogrio" },
 ]
 
 [package.dev-dependencies]
@@ -1386,6 +1387,7 @@ requires-dist = [
     { name = "geopandas", specifier = ">=1.1.4" },
     { name = "mapclassify", specifier = ">=2.11.0" },
     { name = "matplotlib", specifier = ">=3.11.2" },
+    { name = "pyogrio", specifier = ">=0.13.0" },
 ]
 
 [package.metadata.requires-dev]
