@@ -1,0 +1,5 @@
+Specification,Unit,Estimate,CI low,CI high,p-value,Tracts
+"DiD, % change above control places (log)",%,8.398,-9.708,30.135,0.387,56
+"DiD, extra jobs reachable per tract (levels)",jobs,4243.089,1840.714,6645.464,0.001,56
+DiD (log) without the 2 largest-gain tracts overall,%,15.681,-1.589,35.983,0.077,54
+DiD (log) without the 2 largest-gain Phase 1 tracts,%,2.729,-13.521,22.031,0.759,54

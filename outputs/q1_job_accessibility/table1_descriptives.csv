@@ -1,0 +1,5 @@
+Group,Year,Tracts,Mean,Median,SD,Min,Max
+Phase 1 station tracts,2014,20,25113.225,20867.0,21430.834,385.0,84213.5
+Phase 1 station tracts,2021,20,30202.8,24870.0,24097.187,430.0,97905.0
+Control place tracts,2014,36,7221.486,3442.5,8820.616,91.5,31664.5
+Control place tracts,2021,36,8067.972,4585.0,10200.561,96.0,34441.0

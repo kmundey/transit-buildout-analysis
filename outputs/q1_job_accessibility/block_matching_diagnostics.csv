@@ -1,0 +1,10 @@
+,blocks
+Fairfax blocks (2014 file),10556
+2014: no data (-1),0
+2014: zero jobs reachable,37
+2021: not found in 2021 file,0
+2021: no resident workers (0 at 30 and 60 min),3077
+"2021: real zero (0 at 30 min, >0 at 60 min)",21
+Blocks zero in 2014 but positive in 2021 (dropped; possible Silver Line gains),4
+Blocks positive in 2014 but zero in 2021 (dropped),18
+COMPARABLE blocks (positive in both years),7454

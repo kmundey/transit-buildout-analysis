@@ -9,7 +9,9 @@ dependencies = [
     "geopandas>=1.1.4",
     "mapclassify>=2.11.0",
     "matplotlib>=3.11.2",
+    "openpyxl>=3.1.5",
     "pyogrio>=0.13.0",
+    "statsmodels>=0.15.0",
 ]
 
 [dependency-groups]
